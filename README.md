@@ -34,5 +34,7 @@ WeedCube Dataset DOI: https://doi.org/10.15482/USDA.ADC/25306255.v1 </br>
 WeedCube Paper DOI: https://doi.org/10.1016/j.dib.2024.110837
 
 ### If you use this dataset or the codes provided. Kindly cite the author as:
-Ram, B. G., Mettler, J., Howatt, K., Ostlie, M., & Sun, X. (2024). WeedCube: Proximal Hyperspectral Image Dataset of Crops and Weeds for Machine Learning Applications. Data in Brief, 110837, https://doi.org/10.1016/j.dib.2024.110837.
+Ram, B. G., Mettler, J., Howatt, K., Ostlie, M., & Sun, X. (2024). WeedCube: Proximal Hyperspectral Image Dataset of Crops and Weeds for Machine Learning Applications. Data in Brief, 110837. https://doi.org/10.1016/j.dib.2024.110837
+
+Ram, Billy; Sun, Xin; Howatt, Kirk; Ostlie, Michael; Mettler, Joseph (2024). Proximal Hyperspectral Image Dataset of Various Crops and Weeds for Classification via Machine Learning and Deep Learning Techniques. Ag Data Commons. Media. https://doi.org/10.15482/USDA.ADC/25306255.v1
 
